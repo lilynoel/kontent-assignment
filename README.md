@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Contacts.tsx](kontent-sample-app-react/src/Pages/Contacts.tsx) </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [index.css](kontent-sample-app-react/src/index.css) </br>
 
-<i> Only displaying edited pages ✨ </i> 
+<i> Only displaying edited pages from the src folder. ✨ </i> 
 
 
 ## Setup 
