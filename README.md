@@ -17,7 +17,7 @@
 - [x] Create sample React app using tutorial provided.
 - [x] Create sample site & connect to React app using Product ID
 
-<i>  For demonstration purposes, I have left 'removed' pages commented `//` as a point of reference.  ✨</i>
+<i>  For demonstration purposes, I have left 'removed' code commented `//` as a point of reference.  ✨</i>
 
 ## Code Changes
 - [x] Update the project code so the Cafes section lists all cafes within "Our cafes“ section (not in "Other places where you can drink our coffee").
