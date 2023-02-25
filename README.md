@@ -84,7 +84,7 @@
     //   // );
     // });
 ```
-- In this code example, I have removed unused functions & additional iterations of  `partnerCafeLocations` to keep the code DRY.
+- In this code example, I have removed additional iterations of  `partnerCafeLocations` to keep the code DRY.
 
 </br>
 
